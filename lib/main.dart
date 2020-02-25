@@ -55,7 +55,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
           appBar: AppBar(
-            title: Text('Events'),
+            title: Text("$_name"),
           ),
           body: Container(
             color: Color.fromRGBO(221, 221, 221, 1.0),
