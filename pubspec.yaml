@@ -18,7 +18,7 @@ dev_dependencies:
     sdk: flutter
 
   wonderpush_flutter_plugin:
-    path: ../
+    path: ../wonderpush-flutter-sdk/
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
